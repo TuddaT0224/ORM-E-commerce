@@ -1,0 +1,19 @@
+{
+  "name": "orm-e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuddaT0224/ORM-E-commerce.git"
+  },
+  "author": "Trezz Tillman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuddaT0224/ORM-E-commerce/issues"
+  },
+  "homepage": "https://github.com/TuddaT0224/ORM-E-commerce#readme"
+}
