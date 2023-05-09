@@ -5,17 +5,17 @@ We are building the back end of a e-commerce site. During this excercise we will
 
 ## Demo
 * Create Schema and Seed Data
-
+https://drive.google.com/file/d/1wtfmQY0terMWOMhGJvxAEfu2-aEgTwnh/view
 * The first animation shows GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
-
+https://drive.google.com/file/d/1G-6CGpzSu7DnCIzlJQwAvpSys8FnrhKa/view
 * The second animation shows GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
-
-* The final animation shows the POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
-
+https://drive.google.com/file/d/1I9WA1TRctOBPHgLgfhJlBCTLb-1WBpUB/view
+* This animation shows the POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
+https://drive.google.com/file/d/1UXwZ2l159ur7RFlXHJAvNqDFHnzm3FiT/view
 * POST, PUT, and DELETE routes for products:
-
+https://drive.google.com/file/d/1TEHnp4TJPIl5PKlRQEanDj1vu9Y7jPAL/view
 * POST, PUT, and DELETE routes for tags:
-
+https://drive.google.com/file/d/1kF-zyOj_swNYISywqZhrWEKAVAesVPug/view
 ## User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
